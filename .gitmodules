@@ -1,0 +1,3 @@
+[submodule "qme"]
+	path = qme
+	url = https://github.com/koyejolab/qme.git
