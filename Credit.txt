@@ -1,0 +1,3 @@
+The code related to non-probablisitic bisection algorithm is largely based on Gaurush's paper Performance 
+Metric Elicitation from Pairwise Classifier Comparisons. And the qme folder is reference from the source code 
+provided by Gaurush.
